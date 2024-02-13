@@ -155,3 +155,19 @@ select {
   background: white;
   color: rgb(124, 226, 138);
 }
+
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 3rem;
+}
+
+footer .credit {
+  font-size: 1rem;
+  padding-bottom: 0rem;
+}
+
+footer .credit a {
+  color: var(--bg);
+  font-weight: 700;
+}
