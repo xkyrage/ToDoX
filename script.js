@@ -91,3 +91,9 @@ function removeLocalTodos(todo) {
   todos.splice(todos.indexOf(todoIndex), 1);
   localStorage.setItem("todos", JSON.stringify(todos));
 }
+
+function dateAppear() {
+  document.getElementById("display").innerHTML = Date();
+}
+// onclick = "document.getElementById('display').innerHTML = Date ()";
+// setTimeout((document.getElementById("display").style.display = "none"), 3000);
