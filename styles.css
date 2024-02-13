@@ -23,6 +23,13 @@ form {
   align-items: center;
 }
 
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+}
+
 form input,
 form button {
   padding: 0.5rem;
@@ -30,7 +37,7 @@ form button {
   font-size: 1.8rem;
   border: none;
   background: white;
-  border-radius: 2rem;
+  border-radius: 1.2rem;
 }
 
 form button {
@@ -72,7 +79,7 @@ form button:hover {
   justify-content: space-between;
   align-items: center;
   transition: 0.5s;
-  border-radius: 2rem;
+  border-radius: 1.75rem;
 }
 
 .todo li {
