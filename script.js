@@ -92,8 +92,7 @@ function removeLocalTodos(todo) {
   localStorage.setItem("todos", JSON.stringify(todos));
 }
 
-function dateAppear() {
+function showTime() {
   document.getElementById("display").innerHTML = Date();
+  setInterval(showTime, 1000);
 }
-// onclick = "document.getElementById('display').innerHTML = Date ()";
-// setTimeout((document.getElementById("display").style.display = "none"), 3000);
