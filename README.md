@@ -16,7 +16,7 @@
 
 Whether you're planning your day, tracking a project, or jotting down reminders, ToDoX offers a simple and aesthetically pleasing way to stay on top of your tasks. Built with user experience in mind, it's lightweight, fast, and ready to make your productivity journey stylish and enjoyable.
 
-### Organize your life with a touch of XKyrage magic. Try ToDoX today!
+### Organize your life with a touch of Xkyrage's magic. Try ToDoX today!
 
 > click to see the demo
 
